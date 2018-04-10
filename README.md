@@ -1,2 +1,2 @@
 # prac_nach_os
-practice nach os
+Learn Operating Systems through doing Nachos 5.0j
